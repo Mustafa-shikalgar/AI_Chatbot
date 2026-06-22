@@ -1,6 +1,6 @@
 # AI Chatbot
 
-A web-based AI chatbot application powered by Llama3 model using Ollama.
+A web-based AI chatbot application powered by Llama3 model using Ollama
 
 ## Features
 
