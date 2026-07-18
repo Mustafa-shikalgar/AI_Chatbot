@@ -106,6 +106,3 @@ If port 3000 is in use, modify `server.js` to use a different port.
 
 Make sure Python is in your system PATH. You may need to use `python3` instead of `python` in `server.js`.
 
-## License
-
-ISC
